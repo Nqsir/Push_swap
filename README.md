@@ -1,5 +1,5 @@
 # Push_swap
-Projet réalisé en équipe avec freddy Pupier (https://github.com/pups-enterprise).
+Projet réalisé en équipe avec Freddy Pupier (https://github.com/pups-enterprise).
 
 Ce projet demande de trier des données sur une pile, avec un set d’instructions limité, en moins de coups possibles.
 
