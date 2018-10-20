@@ -9,7 +9,7 @@ Usage :
 
 Principales notions :
 
-    • Algorithmes de tri (tri par insertion pour notre cas),
+    • Algorithmes de tri (tri par insertion dans notre cas),
     • Initiation à l'optimisation :
       • Performance : Calcul du coup suivant (en récursif),
       • Rapidité : Gestion des piles et des types de tris.
